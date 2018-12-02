@@ -9,3 +9,4 @@ dev checkout ....
 continue code
 
 local dev teset
+dev edit
